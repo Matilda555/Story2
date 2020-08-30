@@ -1,1 +1,4 @@
 new story
+new story2
+new story3
+new story4
